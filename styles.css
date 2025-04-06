@@ -6,7 +6,6 @@ body {
     padding: 0;
 }
 
-/* stylelint-disable indentation */
 .container {
     max-width: 800px;
     margin: 100px auto;
@@ -17,17 +16,14 @@ body {
     text-align: center;
 }
 
-/* stylelint-disable indentation */
 h1 {
     color: #333;
 }
 
-/* stylelint-disable indentation */
 p {
     color: #666;
 }
 
-/* stylelint-disable indentation */
 footer {
     background-color: #333;
     color: white;
@@ -36,12 +32,10 @@ footer {
     margin-top: 20px;
 }
 
-/* stylelint-disable indentation */
 footer p {
     margin: 5px 0;
 }
 
-/* stylelint-disable indentation */
 img {
     max-width: 100%;
     height: auto;
