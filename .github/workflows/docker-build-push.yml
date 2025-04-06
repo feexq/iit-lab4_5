@@ -21,7 +21,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-        images: ${{ secrets.DOCKERHUB_USERNAME }}/lab45_iit
+          images: ${{ secrets.DOCKERHUB_USERNAME }}/lab45_iit
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
