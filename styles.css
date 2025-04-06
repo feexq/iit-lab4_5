@@ -3,59 +3,58 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-}
-
-.container {
+  }
+  
+  .container {
     max-width: 800px;
     margin: 100px auto;
     padding: 20px;
     background-color: #fff;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 10%);
     text-align: center;
-}
-
-h1 {
+  }
+  
+  h1 {
     color: #333;
-}
-
-p {
+  }
+  
+  p {
     color: #666;
-}
-
-footer {
+  }
+  
+  footer {
     background-color: #333;
     color: white;
     text-align: center;
     padding: 15px 0;
     margin-top: 20px;
-}
-
-footer p {
+  }
+  
+  footer p {
     margin: 5px 0;
-}
-
-img {
+  }
+  
+  img {
     max-width: 100%;
     height: auto;
     margin: 20px 0;
     border-radius: 8px;
-}
-
-.some-class {
+  }
+  
+  .some-class {
     color: red;
-}
-
-.another-class {
+  }
+  
+  .another-class {
     background-color: blue;
     padding: 10px;
-}
-
-.some-color {
-    color: rgb(255, 0, 0);
-}
-
-.some-function {
+  }
+  
+  .some-color {
+    color: rgb(255 0 0);
+  }
+  
+  .some-function {
     margin: 0 10px;
-}
-
+  }
